@@ -76,4 +76,4 @@ Losses for trainig the model will be saved in the `out.txt` file.
 
 Test scores are as follows:
 
-![validation scores](screenshots/scores.png)
+![validation scores](screenshots/scores.PNG)
