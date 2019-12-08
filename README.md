@@ -10,6 +10,14 @@ Note2: This implementation is using Multi-GPUs for faster training. If you don't
 
 To see the loss and acuuracy of the network trainin and validation please take a look at `out.txt` file.
 
+
+# Network Architecture
+![Repo List](screenshot/Slide2.jpg)
+
+The output of the network is 3 real numbers which represents the detected row, column, and radious of the circle in the noisy image. 
+
+
+
 # Getting Started
 Clone this repository with the following command:
 
