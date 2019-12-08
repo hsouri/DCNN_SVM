@@ -69,7 +69,7 @@ python DCNN.py -resume {directory path to your saved model}
 ```
 
 
-# Traing and Test Loss
+# Training and Test Loss
 Losses for trainig the model will be saved in the `out.txt` file.
 
 # Test Scores
