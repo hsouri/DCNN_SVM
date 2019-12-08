@@ -74,5 +74,6 @@ Losses for trainig the model will be saved in the `out.txt` file.
 
 # Test Scores
 
-Test scores using the metric AP 0.7 are as follows:
+Test scores are as follows:
 
+![validation scores](screenshots/scores.png)
