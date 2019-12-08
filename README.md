@@ -1,5 +1,5 @@
 # SVM_DCNN
-Fashion MNIST classification using SVM with different kernels and a Deep Convolutional Neural Network
+Fashion MNIST classification using Deep Convolutional Neural Network and SVM with different kernels.
 
 This is a Python implementation of a Convolutional Neural Network and SVM classifer plus PCA and LDA dimension reduction on Fashion MNIST dataset.
 
