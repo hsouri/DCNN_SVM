@@ -1,7 +1,7 @@
 # SVM_DCNN
 Fashion MNIST classification using Deep Convolutional Neural Network and SVM with different kernels.
 
-This is a Python implementation of a Convolutional Neural Network and SVM classifer plus PCA and LDA dimension reduction on Fashion MNIST dataset.
+This is a Python implementation of a Convolutional Neural Network and a SVM classifer plus PCA and LDA dimension reduction on Fashion MNIST dataset.
 
 
 Note1: Please download and copy fashion train and test set into the fashion folder of the data folder. Link: http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz
