@@ -12,7 +12,7 @@ To see the loss and acuuracy of the network trainin and validation please take a
 
 
 # Network Architecture
-![Repo List](screenshot/Slide2.JPG)
+![Repo List](screenshots/Slide2.JPG)
 
 The output of the network is 3 real numbers which represents the detected row, column, and radious of the circle in the noisy image. 
 
