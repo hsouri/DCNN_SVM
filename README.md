@@ -55,7 +55,7 @@ python DCNN.py
 You can change attributes such as batch size, learning rate, number of epochs, number of workers, resume
 and continue training from a checkpoint. List of selectable attributes:
 
-'-name', '-out_file', '-workers', '-batch-size', '-resume', '-data', '-print_freq', '-epochs', '-start_epoch', '-save_freq'
+'--name', '--out_file', '--workers', '--batch-size', '--resume', '--data', '--print_freq', '--epochs', '--start_epoch', '--save_freq'
 
 
 # Continue Trining
