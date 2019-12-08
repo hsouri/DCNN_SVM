@@ -65,12 +65,12 @@ and continue training from a checkpoint. List of selectable attributes:
 You are able to resume training your model from a saved checkpoint by running the following:
 
 ```shell
-python DCNN.py -resume {directory path to your saved model}
+python DCNN.py --resume {directory path to your saved model}
 ```
 To use my pretrained model, run the following:
 
 ```shell
-python DCNN.py -resume 'saved_models/50_epoch_Fashion_MNIST_checkpoint.tar'
+python DCNN.py --resume 'saved_models/50_epoch_Fashion_MNIST_checkpoint.tar'
 ```
 
 
