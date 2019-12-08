@@ -67,6 +67,11 @@ You are able to resume training your model from a saved checkpoint by running th
 ```shell
 python DCNN.py -resume {directory path to your saved model}
 ```
+To use my pretrained model, run the following:
+
+```shell
+python DCNN.py -resume 'saved_models/50_epoch_Fashion_MNIST_checkpoint.tar'
+```
 
 
 # Training and Test Loss
