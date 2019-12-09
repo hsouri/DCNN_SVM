@@ -15,7 +15,7 @@ class SVM:
         self.num_of_classes = max(train_labels) - min(train_labels) + 1
         self.file = file
         self.choice = "None"
-        self.linear_svm = svm.SVC()
+        self.linear_svm = svm.SVC(C=10, kernel='linear')
         self.poly_svm = svm.SVC(C=10, kernel='poly')
         self.RBF_svm = svm.SVC(C=10, kernel='rbf')
 
